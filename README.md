@@ -2,4 +2,4 @@
 
 This is my first blog.
 
-[SecondBlog](SecondBlog.md)
+[Ideas To Create Second Source Of Income](SecondBlog.md)
