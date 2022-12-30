@@ -1,4 +1,4 @@
-# [Home](Aniket-Deshpande.github.io)
+# [Home](https://github.com/Aniket-Deshpande/Aniket-Deshpande.github.io)
 
 This is my first blog.
 
