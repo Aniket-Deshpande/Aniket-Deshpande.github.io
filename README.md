@@ -2,4 +2,4 @@
 
 This is my first blog.
 
-[here](SecondBlog.md)
+[SecondBlog](SecondBlog.md)
